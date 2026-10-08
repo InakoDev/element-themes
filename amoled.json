@@ -226,7 +226,7 @@
     "--cpd-color-border-critical-primary": "#ff5c7a",
     "--cpd-color-border-success-subtle": "#286a42",
     "--cpd-color-border-info-subtle": "#224976",
-    "--cpd-color-border-accent-subtle": "#4e347a"
+    "--cpd-color-border-accent-subtle": "#4e347a",
 
     "--cpd-color-bg-action-secondary-rest": "#08080a",
     "--cpd-color-bg-action-secondary-hovered": "#121217",
