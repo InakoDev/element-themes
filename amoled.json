@@ -227,5 +227,10 @@
     "--cpd-color-border-success-subtle": "#286a42",
     "--cpd-color-border-info-subtle": "#224976",
     "--cpd-color-border-accent-subtle": "#4e347a"
+
+    "--cpd-color-bg-action-secondary-rest": "#08080a",
+    "--cpd-color-bg-action-secondary-hovered": "#121217",
+    "--cpd-color-bg-action-tertiary-rest": "#0a0a0d",
+    "--cpd-color-bg-subtle-primary": "#0d0d10"
   }
 }
